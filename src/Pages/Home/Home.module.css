@@ -1,0 +1,6 @@
+.home {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to bottom, #2C133E 58.24%, #00FFB2 100%);
+  }
