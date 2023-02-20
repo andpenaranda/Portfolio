@@ -10,3 +10,29 @@
   letter-spacing: 0.095em;
   color: #5bffce;
 }
+
+.paragraphContact {
+  position: absolute;
+  width: 668px;
+  height: 152px;
+  left: 40px;
+  top: 180px;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 38px;
+  color: #d4fff2;
+}
+
+.button {
+  position: absolute;
+  width: 207px;
+  height: 60px;
+  left: 40px;
+  top: 400px;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 31px;
+  background: #00ffb2;
+  border-radius: 5px;
+  cursor: pointer;
+}
