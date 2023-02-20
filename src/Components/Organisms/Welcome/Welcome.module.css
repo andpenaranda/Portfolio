@@ -1,0 +1,44 @@
+.paragraphIntro {
+  position: absolute;
+  width: 275px;
+  height: 47px;
+  left: 155px;
+  top: 149px;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 47px;
+  color: #00fdb1;
+}
+
+.paragraphAndrea {
+  position: absolute;
+  width: 556px;
+  height: 219px;
+  left: 155px;
+  top: 145px;
+  font-weight: 500;
+  font-size: 80px;
+  line-height: 110px;
+  letter-spacing: 0.095em;
+  color: #5bffce;
+}
+
+.paragraphPenaranda {
+  position: absolute;
+  width: 556px;
+  height: 219px;
+  left: 155px;
+  top: 250px;
+  font-weight: 500;
+  font-size: 80px;
+  line-height: 80px;
+  letter-spacing: 0.095em;
+  color: #5bffce;
+}
+
+.imageStyle {
+  position: absolute;
+  width: 25rem;
+  right: 0%;
+  bottom: 0%;
+}
