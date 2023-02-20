@@ -1,3 +1,9 @@
+import styles from "./Contact.module.css";
+
 export const Contact = () => {
-  return <div>CONTACT PAGE</div>;
+  return (
+    <div>
+      <p className={styles.titleContact}>Contact.</p>
+    </div>
+  );
 };

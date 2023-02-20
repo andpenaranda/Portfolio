@@ -1,3 +1,9 @@
+import styles from "./Projects.module.css";
+
 export const Projects = () => {
-  return <div>PROJECTS PAGE</div>;
+  return (
+    <div>
+      <p className={styles.titleProjects}>Projects.</p>
+    </div>
+  );
 };
